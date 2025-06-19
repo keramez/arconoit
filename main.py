@@ -1,7 +1,7 @@
 import pygame as pg 
 from time import time
 from random import randint
-#hi caca lflfllfl DIMA
+#hi caca lflfllfl DIMA drrraaaaaaa
 
 
 pg.init()
